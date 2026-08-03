@@ -1,4 +1,6 @@
-## Hi there 👋
+## Im Arvii 
+
+I mostly work with agentic flows and my Projects are all over the Place some may include new AI Workflows or C++ based Gamecheats
 
 <!--
 **arviitech/arviitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
