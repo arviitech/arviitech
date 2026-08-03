@@ -1,18 +1,26 @@
-## Im Arvii 
+# Hi there, I'm Arvii 👋
 
-I mostly work with agentic flows and my Projects are all over the Place some may include new AI Workflows or C++ based Gamecheats
+I am a Software Engineer specializing in **agentic AI workflows** and **low-level systems development**. My work bridges modern LLM orchestration with deep, low-level C++ engineering.
 
-<!--
-**arviitech/arviitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Technical Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Agentic AI & Automation Systems**
+  * Multi-agent orchestration and dynamic task execution.
+  * Custom LLM tool-calling architectures and API integrations.
+  * Autonomous workflow design and prompt engineering pipelines.
+
+* **Systems & C++ Engineering**
+  * Low-level memory manipulation, runtime execution hooking, and reverse engineering.
+  * Performance-critical application logic and system-level debugging.
+  * Interactive tool development and software modification research.
+
+---
+
+### 🚀 What I Do
+
+I build software across distinct technical domains—ranging from experimental autonomous AI pipelines that streamline complex workflows to performant C++ applications interfacing directly with system memory and runtimes.
+
+---
+
